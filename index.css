@@ -1,0 +1,14 @@
+header {
+    display: flex;
+}
+
+main {
+    display: flex;
+}
+
+footer {
+    background-color: lightgray;
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+}
